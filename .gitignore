@@ -1,0 +1,15 @@
+.DS_Store
+.DS_Store?
+.inspectionProfiles/Project_Default.xml
+.misc.xml
+.modules.xml?
+.Restaurant-.iml
+.idea/inspectionProfiles/Project_Default.xml
+*.xml
+.idea/vcs.xml
+.idea/Restaurant-.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/Restaurant-.iml
+.idea/vcs.xml
+.idea/watcherTasks.xml
